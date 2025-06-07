@@ -1,0 +1,14 @@
+E:\Projects Outside 14\To Do List\To Do List\bin\Debug\To Do List.exe.config
+E:\Projects Outside 14\To Do List\To Do List\bin\Debug\To Do List.exe
+E:\Projects Outside 14\To Do List\To Do List\bin\Debug\To Do List.pdb
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To_Do_List.Form1.resources
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To Do List.csproj.GenerateResource.cache
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To Do List.exe
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To Do List.pdb
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To_Do_List.Form2.resources
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To_Do_List.Form3.resources
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To_Do_List.Form4.resources
+E:\Projects Outside 14\To Do List\To Do List\obj\Debug\To_Do_List.Form5.resources
